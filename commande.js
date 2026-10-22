@@ -55,3 +55,11 @@ console.log(`Type du nom : ${typeof nomClient}`);
 console.log(`Type du prix : ${typeof prixUnitaire}`);
 
 console.log(`Type de la quantité : ${typeof quantite}`);
+
+console.log("");
+
+console.log("--- BONUS ---");
+
+console.log(`Remise :  ${remise} FCFA`);
+
+console.log(`TOTAL A PAYER APRES REMISE : ${totalAvecRemise} FCFA`);

@@ -49,3 +49,9 @@ console.log(`TOTAL A PAYER : ${totalAPayer} FCFA`);
 console.log("");
 
 console.log(`Prix moyen TTC par produit : ${prixMoyenTTC} FCFA`);
+
+console.log(`Type du nom : ${typeof nomClient}`);
+
+console.log(`Type du prix : ${typeof prixUnitaire}`);
+
+console.log(`Type de la quantité : ${typeof quantite}`);
